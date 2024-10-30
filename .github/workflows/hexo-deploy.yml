@@ -28,7 +28,7 @@ jobs:
       # 安装依赖
       - name: Install Dependencies
         run: |
-          npm install
+          npm install -f
 
       # 从之前设置的 secret 获取部署私钥
       - name: Setup SSH Keys and known_hosts
