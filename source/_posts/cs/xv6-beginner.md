@@ -2,7 +2,7 @@
 title: xv6_beginner
 date: 2022-07-26 21:55:19
 tags: os 
-categories: computer science
+categories: cs
 ---
 # The XV6 is a os lab for beginner who is fool about the operating system
 
